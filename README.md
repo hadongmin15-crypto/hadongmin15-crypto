@@ -25,3 +25,7 @@ hadongmin425@naver.com
 **[intro_ai](https://github.com/hadongmin15-crypto/intro_ai)**
 
 학과 2-2 인공지능개론 실습·과제.
+
+**[서울버스 수요분석](https://github.com/hadongmin15-crypto/seoul-bus-demand-analysis)**
+
+2022년 4월 서울 버스 승하차·유동인구 데이터로, 멀리 가는 노선이 1개 이하인 '의존 정류장'에 승차가 더 몰리는지 검정했습니다. 관악구를 공백 1위라서 고른 첫 가설은 선택 편향이라 서울 전체 일반 가설로 다시 세웠고, 걸어서 닿는 노선을 늘려도 그 방향으로는 못 간다는 '방향 공백'을 근거로 관악→서초→강남 노선을 제안했습니다.
